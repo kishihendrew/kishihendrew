@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=35&duration=6000&pause=1000&color=008000&width=435&lines=System+Manager+%7C+SRE;CyberSecurity+%7C+NOC;Fraud+Prevention+Analyst;Infrastructure+">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=35&duration=6000&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=System+Manager+%7C+SRE;CyberSecurity+%7C+NOC;Fraud+Prevention+Analyst;Infrastructure+">
 </p>
 
 ## Sobre mim
