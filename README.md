@@ -11,8 +11,7 @@
 <img align="right" height="190" src="https://cdn.pixabay.com/animation/2025/02/03/21/46/21-46-03-725_512.gif">
 
 
-Sou um estudante de Redes de Computadores no Senai de Informática, onde aprendo a planejar, configurar e gerenciar redes de pequeno a grande porte. No decorrer das aulas, trabalhei com ferramentas como Linux, Windows Server, Zabbix, Grafana, Pfsense, Wireshark, Packet Tracer, Nmap, entre outras.
-Tenho interesse em aprofundar meus conhecimentos em segurança de redes e infraestrutura.
+Como estudante de Técnico em Redes de Computadores na Escola SENAI de Informática, desenvolvi competências em configuração de redes, segurança da informação e análise de dados. Com certificações relevantes, como CCNA e especializações em segurança na nuvem, meu objetivo é consolidar uma carreira impactante no setor de tecnologia focada em cibersegurança.
 
 _**"A verdadeira segurança começa com a proteção inteligente no mundo digital."**_
 
